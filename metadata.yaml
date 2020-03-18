@@ -1,0 +1,27 @@
+_repo: The-Letters-of-S-Ambrose-Bishop-of-Milan_58783
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ambrose, Saint, Bishop of Milan
+    aliases:
+    - Aurelio Ambrogio, Saint, Bishop of Milan
+    - Aurelius Ambrosius, Saint, Bishop of Milan
+    deathdate: 397
+    gutenberg_agent_id: '25543'
+    url: http://www.gutenberg.org/2009/agents/25543
+    wikipedia: http://en.wikipedia.org/wiki/St._Ambrose_of_Milan
+description: ''
+gutenberg_issued: '2019-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58783'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Ambrose, Saint, Bishop of Milan, -397 -- Correspondence'
+- GITenberg
+title: The Letters of S. Ambrose, Bishop of Milan
+url: http://www.gutenberg.org/ebooks/58783
